@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "mcdoc",
+    "packageName": "io.github.mcdoc.application",
+    "packageFolder": "io/github/mcdoc/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NzY3MzNjNjdhNzI2N2MyYTMyNGI4NDYzMTdiMjg0NmVlNjQ0MjE2OWE3Yzk4ZGNhYzVlMTk5NjU4M2VlZGE1NjU0Mjc2ZmRhY2VhZTU2NTQ4MGQ3YWE5ZTQxNWNlZDZlMTMyMDJmZjk4NjU3ZDdiOTcwYWM5MDMwNjFhNDJlNGE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "wissem-haouari",
+  "repository-name": "mcdoc-application"
+}
